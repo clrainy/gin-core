@@ -1,4 +1,4 @@
-module gin-core
+module github.com/clrainy/gin-core
 
 go 1.20
 

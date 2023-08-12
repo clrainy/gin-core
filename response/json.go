@@ -1,7 +1,7 @@
 package response
 
 import (
-	"gin-core/constant"
+	"github.com/clrainy/gin-core/constant"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
